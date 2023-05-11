@@ -1,0 +1,31 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+nav{
+    margin-bottom:2rem;
+}
+
+footer{
+    margin-top:auto;
+}
+
+.footer-inner{
+    background-color:rgb(118, 189, 189);
+    padding: 1.5rem;
+    margin: 30px;
+    text-align: center;
+    
+}
+
+.welcome{
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.timegreet{
+    font-size: 2.5rem;
+    text-align: center;
+}
